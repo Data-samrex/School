@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CourseID]
+      ,[CourseName]
+      ,[CourseDescription]
+      ,[CourseCredit]
+  FROM [MMU_Admissions].[dbo].[Course]

@@ -1,0 +1,8 @@
+SELECT TOP (1000) [StudentID]
+      ,[Std_surname]
+      ,[Std_firstname]
+      ,[Std_dob]
+      ,[Std_gender]
+      ,[Std_address]
+      ,[Postcode]
+  FROM [MMU_Admissions].[dbo].[Student]
